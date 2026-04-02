@@ -70,7 +70,6 @@ Este proyecto refleja mi capacidad para diseñar y mantener aplicaciones profesi
 ### 📫 Contacto
 
 - **LinkedIn**: [linkedin.com/in/andres-biasutto](https://www.linkedin.com/in/andres-biasutto/)
-- **Email**: (agregá tu correo si querés)
 - **GitHub**: [github.com/AndresBiasutto](https://github.com/AndresBiasutto)
 
 ---
