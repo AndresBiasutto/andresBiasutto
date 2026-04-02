@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 **Ingeniero de Software / Desarrollador Full-Stack**
 
-Estudiante avanzado de **Análisis de Sistemas** con fuerte enfoque en el desarrollo de aplicaciones web modernas, escalables y de alta calidad. Me apasiona construir sistemas completos con buena arquitectura, código limpio y excelentes prácticas de desarrollo.
+Estudiante avanzado de **Análisis de Sistemas** con fuerte enfoque en el desarrollo de aplicaciones web modernas, escalables y de alta calidad. Capaz de construir sistemas completos con código limpio, buena arquitectura y excelentes prácticas de desarrollo.
+Interesado en el desarrollo con IA, orquestación de agentes y automatizaciones.
 
 ---
 
