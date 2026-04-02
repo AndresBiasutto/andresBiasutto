@@ -28,7 +28,6 @@ Estudiante avanzado de **Análisis de Sistemas** con fuerte enfoque en el desarr
 - TypeScript (project-wide con strict mode)
 - PostgreSQL + Sequelize ORM
 - Autenticación JWT + bcrypt
-- Nodemailer
 - Arquitectura en capas (routes → middlewares → controllers → services → repositories → models)
 
 **Frontend**
@@ -63,10 +62,8 @@ Este proyecto refleja mi capacidad para diseñar y mantener aplicaciones profesi
 ### 📌 Proyectos Destacados
 
 - **[GestorDeAlumnos](https://github.com/AndresBiasutto/GestorDeAlumnos)** – Gestión de alumnos (C#)
-- **[ShamiApp](https://github.com/AndresBiasutto/ShamiApp)** – Control y gestión de stock
 - **[PI-DOGS-MAIN](https://github.com/AndresBiasutto/PI-DOGS-MAIN)** – Proyecto Individual Henry (SPA de razas de perros)
 - **[comparador-precios](https://github.com/AndresBiasutto/comparador-precios)** – Comparador de precios
-- **[memoria_game](https://github.com/AndresBiasutto/memoria_game)** – Juego de memoria
 
 ---
 
